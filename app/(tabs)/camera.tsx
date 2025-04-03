@@ -1,9 +1,9 @@
 import { Text, View } from 'react-native';
 
-export default function HomeScreen() {
+export default function () {
   return (
     <View className="flex-1 items-center justify-center bg-black">
-      <Text className="text-white font-bold text-2xl">Home</Text>
+      <Text className="text-white font-bold text-2xl">Camera</Text>
     </View>
   );
 }
