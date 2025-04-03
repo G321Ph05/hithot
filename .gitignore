@@ -39,4 +39,4 @@ app-example
 
 expo-env.d.ts
 .env
-.env.local
+
